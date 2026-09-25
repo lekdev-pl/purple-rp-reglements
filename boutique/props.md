@@ -1,4 +1,22 @@
+---
+cover: .gitbook/assets/banner-boutique.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+---
+
 # 🎭 Catalogue & Règlement des Props
+
+<div align="center">
+
+[![Props](https://img.shields.io/badge/PROPS-3D_IMMERSION-9d4edd?style=for-the-badge&logo=blender&logoColor=white)](https://purple-rp.gitbook.io/)
+[![FPS](https://img.shields.io/badge/OPTIMISATION-FPS_PROTÉGÉS-0077b6?style=for-the-badge)](https://purple-rp.gitbook.io/)
+[![Powergaming](https://img.shields.io/badge/POWERGAMING-STRICTEMENT_INTERDIT-d00000?style=for-the-badge)](https://purple-rp.gitbook.io/)
+
+</div>
 
 Les **props** sont des objets 3D utilitaires ou décoratifs permettant d'aménager vos intérieurs, dynamiser vos événements et sublimer vos scènes RolePlay sur **Purple RP**.
 

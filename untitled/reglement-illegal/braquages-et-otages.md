@@ -1,4 +1,22 @@
+---
+cover: ../.gitbook/assets/banner-illegal.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+---
+
 # 🏦 Braquages, Négociations & Prises d'Otages
+
+<div align="center">
+
+[![Braquages](https://img.shields.io/badge/BRAQUAGES-ACTION_&_FAIRPLAY-d00000?style=for-the-badge&logo=target&logoColor=white)](https://purple-rp.gitbook.io/)
+[![Otages](https://img.shields.io/badge/OTAGES-1_POUR_2_MAX-ffb703?style=for-the-badge)](https://purple-rp.gitbook.io/)
+[![PIT](https://img.shields.io/badge/NO_PIT-AVANT_3_À_5_MIN-023e8a?style=for-the-badge)](https://purple-rp.gitbook.io/)
+
+</div>
 
 Les braquages et prises d'otages sont des moments forts d'adrénaline et de RolePlay. Ils requièrent une rigueur absolue pour demeurer captivants pour les deux camps.
 
@@ -8,11 +26,33 @@ Les braquages et prises d'otages sont des moments forts d'adrénaline et de Role
 
 | Type de Braquage | Braqueurs (Min - Max) | FDO Disponibles (Min) | Otages Max | Armes Autorisées | PIT / Délais |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **🏪 Supérette / Épicerie** | 1 - 2 braqueurs | 2 FDO | 2 otages max | Armes blanches, Pistolets légers | Pas de PIT avant 3 min |
-| **💎 Bijouterie Vangelico** | 2 - 4 braqueurs | 4 FDO | 3 otages max | Pistolets, SMG légers | Pas de PIT avant 4 min |
-| **🏦 Petite Banque (Fleeca)**| 3 - 5 braqueurs | 5 FDO | 4 otages max | Pistolets, SMG, Fusils à pompe | Pas de PIT avant 5 min |
-| **🏛️ Grande Banque (Pacific)**| 5 - 8 braqueurs | 8 FDO | 6 otages max | Fusils d'assaut, SMG, Armes lourdes | Poursuite tactique complète |
-| **🧪 Laboratoire / Convoi** | 4 - 6 assaillants | 6 FDO | Pas d'otages | Armes automatiques | Contexte de combat direct |
+| 🏪 **Supérette / 24-7** | 1 - 2 braqueurs | 2 FDO | 2 otages max | Armes blanches, Pistolets légers | Pas de PIT avant 3 min |
+| 💎 **Bijouterie Vangelico** | 2 - 4 braqueurs | 4 FDO | 3 otages max | Pistolets, SMG légers | Pas de PIT avant 4 min |
+| 🏦 **Petite Banque (Fleeca)**| 3 - 5 braqueurs | 5 FDO | 4 otages max | Pistolets, SMG, Fusils à pompe | Pas de PIT avant 5 min |
+| 🏛️ **Grande Banque (Pacific)**| 5 - 8 braqueurs | 8 FDO | 6 otages max | Fusils d'assaut, SMG, Armes lourdes | Poursuite tactique complète |
+| 🧪 **Laboratoire / Convoi** | 4 - 6 assaillants | 6 FDO | Pas d'otages | Armes automatiques | Contexte de combat direct |
+
+---
+
+### 📑 Détail par Type de Braquage
+
+{% tabs %}
+{% tab title="🏪 Supérettes" %}
+* **Ambiance :** Braquage rapide de proximité, idéal pour débuter ou créer une interaction policière spontanée.
+* **Effectifs :** 1 à 2 braqueurs maximum face à 2 ou 3 policiers.
+* **Armement :** Pistolets simples ou armes de poing. Les armes lourdes y sont interdites.
+{% endtab %}
+
+{% tab title="💎 Bijouterie Vangelico" %}
+* **Ambiance :** Vol minuté demandant un temps de casse des vitrines.
+* **Effectifs :** 2 à 4 braqueurs. Les tireurs embusqués extérieurs (snipers) ne sont pas autorisés sur ce type de casse.
+{% endtab %}
+
+{% tab title="🏦 Banques (Fleeca & Pacific)" %}
+* **Ambiance :** Opération d'envergure nécessitant piratage, découpe thermique et négociation radio.
+* **Règles :** Présence d'otages obligatoire pour engager les négociations. Fuites coordonnées autorisées, mais véhicules blindés interdits.
+{% endtab %}
+{% endtabs %}
 
 ---
 

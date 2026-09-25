@@ -1,14 +1,45 @@
+---
+cover: ../.gitbook/assets/banner-legal.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+---
+
 # 🚓 Forces de l'Ordre (LSPD • BCSO • FIB • USSS)
+
+<div align="center">
+
+[![Police](https://img.shields.io/badge/POLICE-SAN_ANDREAS-1d3557?style=for-the-badge&logo=shield&logoColor=white)](https://purple-rp.gitbook.io/)
+[![Sommations](https://img.shields.io/badge/3_SOMMATIONS-OBLIGATOIRES-e63946?style=for-the-badge)](https://purple-rp.gitbook.io/)
+[![Éthique](https://img.shields.io/badge/DÉONTOLOGIE-PROFESSIONNELLE-457b9d?style=for-the-badge)](https://purple-rp.gitbook.io/)
+
+</div>
 
 Ce règlement commun régit l'activité de l'ensemble des forces de police et d'investigation de l'État de San Andreas.
 
 ---
 
-### 🛡️ Mission, Déontologie & Éthique
+### 🏢 Répartition des Juridictions
 
-* **Protection des vies :** La priorité absolue des forces de l'ordre est la préservation de la vie des concitoyens et des otages.
-* **Respect de la hiérarchie :** Chaque agent doit respecter les ordres de ses officiers supérieurs et coopérer étroitement avec les autres branches (LSPD, BCSO, FIB).
-* **Interdiction de l'abus de pouvoir :** L'uniforme, le matricule, l'armurerie d'État et le gyrofare ne confèrent aucun droit de supériorité HRP.
+{% tabs %}
+{% tab title="🔵 LSPD (Los Santos Police)" %}
+* **Juridiction :** Périmètre urbain de la ville de Los Santos (centre-ville, quartiers sud, Vinewood, Del Perro, port).
+* **Missions :** Sécurité de proximité, régulation du trafic, maintien de l'ordre public et patrouilles régulières.
+{% endtab %}
+
+{% tab title="🟢 BCSO (Blaine County Sheriff)" %}
+* **Juridiction :** Zones rurales et comtés du Nord (Sandy Shores, Paleto Bay, Mont Chiliad, autoroutes interurbaines).
+* **Missions :** Surveillance des espaces naturels, interventions tout-terrain et maintien de la paix rurale.
+{% endtab %}
+
+{% tab title="🟡 FIB & USSS (Enquêtes & État)" %}
+* **Juridiction :** Compétence fédérale sur l'ensemble de l'État de San Andreas.
+* **Missions :** Enquêtes de grande envergure, lutte contre le grand banditisme, terrorisme et protection rapprochée des personnalités gouvernementales.
+{% endtab %}
+{% endtabs %}
 
 ---
 

@@ -1,4 +1,22 @@
+---
+cover: .gitbook/assets/banner-boutique.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+---
+
 # 🛍️ Boutique Officielle & Soutien Serveur
+
+<div align="center">
+
+[![Boutique](https://img.shields.io/badge/BOUTIQUE-OFFICIELLE-9d4edd?style=for-the-badge&logo=shopify&logoColor=white)](https://purple-rp.gitbook.io/)
+[![Paiement](https://img.shields.io/badge/PAIEMENT-100%25_SÉCURISÉ-38b000?style=for-the-badge&logo=shield&logoColor=white)](https://purple-rp.gitbook.io/)
+[![Éthique](https://img.shields.io/badge/NO_PAY_TO_WIN-STRICT-e63946?style=for-the-badge)](https://purple-rp.gitbook.io/)
+
+</div>
 
 Bienvenue sur la boutique officielle de **Purple RP**.  
 Votre soutien financier permet de financer directement nos machines dédiées haute performance, les licences FiveM et le développement continu d'expériences RolePlay inédites.
@@ -8,7 +26,7 @@ Votre soutien financier permet de financer directement nos machines dédiées ha
 ### 🛡️ Charte Éthique & Politique « No Pay-to-Win »
 
 {% hint style="success" %}
-#### Égalité Stricte devant la Loi & le Staff
+#### 💎 Égalité Stricte devant la Loi & le Staff
 * **Aucun Passe-Droit RP :** Contribuer financièrement au serveur ne vous octroie **aucun privilège administratif**, aucune immunité face aux sanctions et aucun avantage déloyal face aux autres joueurs.
 * Un joueur disposant d'un abonnement VIP ou d'un véhicule import reste soumis aux mêmes devoirs, aux mêmes règles (FearRP, 3 sommations, etc.) et au même barème de sanctions (Warn, Ban) que n'importe quel citoyen de la ville.
 * Le respect du fair-play prime sur tout investissement financier.
