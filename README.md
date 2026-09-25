@@ -60,10 +60,13 @@ coverY: 0.5
 * [📖 Lexique & Notions Clés](reglement-general/lexique-et-notions.md)
 * [🛡️ Règles Fondamentales & Conduite](reglement-general/regles-fondamentales.md)
 * [🚨 Sanctions, Plaintes & Staff](reglement-general/sanctions-et-staff.md)
+* [🎥 Charte Streamers & Médias](reglement-general/charte-streamers.md)
 
 #### 🏛️ 2. Règlement Légal
 * [🏛️ Gouvernement & Justice (DOJ)](reglement-legal/gouvernement-et-justice.md)
-* [🚓 Forces de l'Ordre (LSPD / BCSO)](reglement-legal/forces-de-l-ordre.md)
+* [⚖️ Code Pénal & Barème des Amendes](reglement-legal/code-penal.md)
+* [🚓 Forces de l'Ordre (LSPD / BCSO / FIB)](reglement-legal/forces-de-l-ordre.md)
+* [📻 Fréquences Radio & Communications](reglement-legal/frequences-radio.md)
 * [🚑 Services Médicaux (EMS)](reglement-legal/services-medicaux-ems.md)
 * [🏢 Entreprises & Métiers](reglement-legal/entreprises-et-metiers.md)
 
