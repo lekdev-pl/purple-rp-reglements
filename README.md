@@ -1,9 +1,5 @@
 # 📜 Règlement Officiel — Purple RP
 
-| Plateforme | Version | Statut |
-| :--- | :--- | :--- |
-| **FiveM • Purple RP** | **v2.0 Enrichie** | **Officiel & Applicable** |
-
 Bienvenue sur le règlement officiel de **Purple RP**.  
 Ce document regroupe l'ensemble des règles de vie, de jeu et d'encadrement en vigueur sur notre serveur. Il est conçu pour être clair, précis et garant d'une expérience RolePlay équitable, immersive et amusante pour tous.
 
@@ -49,10 +45,10 @@ Ce document regroupe l'ensemble des règles de vie, de jeu et d'encadrement en v
 
 ---
 
-### 🧭 Navigation Rapide
+### 🧭 Sommaire du Règlement
 
-* [⚖️ **Règlement Général**](reglement-general/regles-fondamentales.md) : Notions RP, FearRP, Coma, NLR, Zones Safe.
-* [🚨 **Sanctions & Plaintes**](reglement-general/sanctions-et-staff.md) : Barème officiel, avertissements et tickets.
-* [🏛️ **Règlement Légal**](reglement-legal/gouvernement-et-justice.md) : Gouvernement, LSPD/BCSO, EMS et Entreprises.
-* [🕵️ **Règlement Illégal**](reglement-illegal/organisations-et-gangs.md) : Gangs, Braquages, Labos, Territoires et Mort RP.
-* [🛍️ **Boutique & Props**](boutique/informations.md) : Règles d'usage des props et du soutien serveur.
+* [⚖️ **1. Règlement Général**](reglement-general/regles-fondamentales.md) : Notions RP, FearRP, Coma, NLR, Zones Safe.
+* [🚨 **Échelle des Sanctions**](reglement-general/sanctions-et-staff.md) : Barème officiel, avertissements et tickets.
+* [🏛️ **2. Règlement Légal**](reglement-legal/gouvernement-et-justice.md) : Gouvernement, LSPD/BCSO, EMS et Entreprises.
+* [🕵️ **3. Règlement Illégal**](reglement-illegal/organisations-et-gangs.md) : Gangs, Braquages, Labos, Territoires et Mort RP.
+* [🛍️ **Boutique & Props**](boutique/README.md) : Règles d'usage des props et du soutien serveur.

@@ -1,32 +1,3 @@
----
-description: Modalités de soutien, catégories d'articles et conditions de la boutique Purple RP.
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: background
-    mask: radial
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
-  anchors:
-    visible: true
----
-
 # 🛍️ Boutique Officielle & Soutien Serveur
 
 Bienvenue sur la boutique officielle de **Purple RP**.  

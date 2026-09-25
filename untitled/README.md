@@ -1,36 +1,4 @@
----
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: background
-    mask: radial
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
-  anchors:
-    visible: true
----
-
 # 📜 Règlement Officiel — Purple RP
-
-| Plateforme | Version | Statut |
-| :--- | :--- | :--- |
-| **FiveM • Purple RP** | **v2.0 Enrichie** | **Officiel & Applicable** |
 
 Bienvenue sur le règlement officiel de **Purple RP**.  
 Ce document regroupe l'ensemble des règles de vie, de jeu et d'encadrement en vigueur sur notre serveur. Il est conçu pour être clair, précis et garant d'une expérience RolePlay équitable, immersive et amusante pour tous.

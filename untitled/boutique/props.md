@@ -1,32 +1,3 @@
----
-description: Guide officiel, catalogue et règles d'utilisation des Props et objets de scène sur Purple RP.
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: background
-    mask: radial
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
-  anchors:
-    visible: true
----
-
 # 🎭 Catalogue & Règlement des Props
 
 Les **props** sont des objets 3D utilitaires ou décoratifs permettant d'aménager vos intérieurs, dynamiser vos événements et sublimer vos scènes RolePlay sur **Purple RP**.
