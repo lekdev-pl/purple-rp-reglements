@@ -1,11 +1,11 @@
 ---
-cover: .gitbook/assets/banner-boutique.png
-coverY: 0
+cover: banner.png
+coverY: 0.5
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: default
 ---
 
 # 🛍️ Boutique Officielle & Soutien Serveur

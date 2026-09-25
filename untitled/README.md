@@ -1,16 +1,14 @@
 ---
-cover: .gitbook/assets/banner.png
-coverY: 0
+cover: banner.png
+coverY: 0.5
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: default
 ---
 
 <div align="center">
-
-<img src=".gitbook/assets/logo.png" alt="Purple RP Logo" width="180">
 
 # 📜 RÈGLEMENT OFFICIEL — PURPLE RP
 
