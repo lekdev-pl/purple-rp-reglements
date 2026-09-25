@@ -1,33 +1,28 @@
+# 🎭 Accessoires & Objets de Scène (Props)
+
+Les **props** sont des objets 3D interactifs ou décoratifs conçus pour enrichir vos scènes et personnaliser vos espaces de RolePlay sur **Purple RP**.
+
 ---
-description: Accessoires et objets pour vos scènes RP.
----
 
-# 🎭 Props
-
-## 🎭 Props
-
-Des accessoires pour enrichir vos scènes et personnaliser votre RP.
+### 🎬 Principes d'Utilisation des Props
 
 {% hint style="info" %}
-Les props sont des objets décoratifs ou utilitaires. Leur usage doit toujours rester cohérent avec la scène RP.
+#### Usage Cohérent & RP Obligatoire
+* Les props sont des outils scénographiques destinés à apporter du réalisme à vos scènes (barricades de chantier, tables de banquet, mallettes d'argent, matériel médical d'appoint).
+* Leur disposition doit toujours rester logique avec l'environnement immédiat.
 {% endhint %}
 
-### Catégories
+---
 
-{% columns %}
-{% column %}
-#### 🏠 Décoration
+### 🏠 Catégories Principales de Props
 
-Aménagez vos intérieurs et vos lieux RP.
-{% endcolumn %}
+* 🛋️ **Décoration & Intérieurs :** Mobilier, tapis, éclairages d'ambiance et agencement pour les villas de gang, résidences et locaux d'entreprises.
+* 🎥 **Mise en Scène Événementielle :** Estrades, micros de concert, barrières de sécurité, tentes de réception et spots pour vos soirées publiques.
+* 📦 **Props Utilitaires d'Intervention :** Cônes de signalisation, rubans de sécurité (scène de crime) et projecteurs d'intervention pour les FDO et EMS.
 
-{% column %}
-#### 🎬 Scènes RP
+---
 
-Ajoutez des objets adaptés à vos mises en scène.
-{% endcolumn %}
-{% endcolumns %}
+### ❌ Interdictions et Abus Prohibés
 
-### Disponibilité
-
-Le catalogue et les modalités d’achat seront ajoutés prochainement.
+* **Anti-Powergaming :** Il est strictement interdit d'utiliser des props pour bloquer artificiellement une porte blindée, ériger des barricades impénétrables en pleine fusillade ou piéger un joueur.
+* **Pollution visuelle :** Pensez à nettoyer et ranger vos props à la fin de vos scènes pour ne pas surcharger les ressources graphiques et la fluidité des autres joueurs.

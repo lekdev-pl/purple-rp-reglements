@@ -1,6 +1,6 @@
 # Table des matières
 
-* [📜 Introduction & Accueil](README.md)
+* [📜 Accueil & Principes Généraux](README.md)
 
 ## ⚖️ Règlement Général
 * [📖 Lexique & Notions RP](reglement-general/lexique-et-notions.md)
@@ -21,6 +21,6 @@
 * [🧪 Drogues, Laboratoires & Territoires](reglement-illegal/drogues-labos-et-territoires.md)
 * [🎲 Activités Clandestines & Plaques](reglement-illegal/activites-clandestines.md)
 
-## 🛍️ Boutique & Support
-* [🛍️ Informations Boutique](boutique/informations.md)
+## 🛍️ Boutique & Props
+* [🛍️ Boutique Officielle](boutique/README.md)
 * [🎭 Props & Objets Décoratifs](boutique/props.md)
