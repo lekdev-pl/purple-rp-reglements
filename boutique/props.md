@@ -1,22 +1,14 @@
 ---
+description: Catalogue et règlementation des objets 3D et accessoires de scène sur Purple RP.
 cover: banner.png
 coverY: 0.5
-layout:
-  width: default
-  cover:
-    visible: true
-    size: default
 ---
 
 # 🎭 Catalogue & Règlement des Props
 
-<div align="center">
-
 [![Props](https://img.shields.io/badge/PROPS-3D_IMMERSION-9d4edd?style=for-the-badge&logo=blender&logoColor=white)](https://purple-rp.gitbook.io/)
 [![FPS](https://img.shields.io/badge/OPTIMISATION-FPS_PROTÉGÉS-0077b6?style=for-the-badge)](https://purple-rp.gitbook.io/)
 [![Powergaming](https://img.shields.io/badge/POWERGAMING-STRICTEMENT_INTERDIT-d00000?style=for-the-badge)](https://purple-rp.gitbook.io/)
-
-</div>
 
 Les **props** sont des objets 3D utilitaires ou décoratifs permettant d'aménager vos intérieurs, dynamiser vos événements et sublimer vos scènes RolePlay sur **Purple RP**.
 
@@ -35,44 +27,38 @@ Les props sont des outils purement scénographiques. Leur présence doit **toujo
 
 ### 📦 Catégories du Catalogue de Props
 
-{% columns %}
-{% column %}
-#### 🏠 Mobilier & Décoration
+{% tabs %}
+{% tab title="🏠 Mobilier & Décoration" %}
 * Canapés, fauteuils et tables de salon.
 * Téléviseurs, ordinateurs et bureaux.
 * Tapis, plantes vertes, tableaux et éclairages.
 * Rangements, étagères et bars de réception.
 
 *👉 Idéal pour aménager les résidences privées, QG et bureaux d'entreprises.*
-{% endcolumn %}
+{% endtab %}
 
-{% column %}
-#### 🎬 Événements & Soirées
+{% tab title="🎬 Événements & Soirées" %}
 * Estrades, podiums et scènes de concert.
 * Platines DJ, tables de mixage et micros.
 * Projecteurs, spots lumineux et lasers.
 * Tonnelles, mange-debout et barrières de foule.
 
 *👉 Indispensable pour Weazel News, organisateurs de festivals et boîtes de nuit.*
-{% endcolumn %}
-{% endcolumns %}
+{% endtab %}
 
-{% columns %}
-{% column %}
-#### 🛠️ Rôleplay Légal & Métiers
+{% tab title="🛠️ Rôleplay Légal & Métiers" %}
 * **EMS / Hôpital :** Civières d'appoint, trousses de premiers secours, paravents médicaux.
 * **FDO / Police :** Cônes de signalisation, rubans de scène de crime, herses d'arrêt, projecteurs tactiques.
 * **Garages :** Ponts élévateurs visuels, boîtes à outils, crics et bidons d'huile.
-{% endcolumn %}
+{% endtab %}
 
-{% column %}
-#### 🏴 Ambiance Illégale & Clandestine
+{% tab title="🏴 Illégal & Clandestin" %}
 * Tables de comptage de faux billets et valises d'argent.
 * Caisses d'armes décoratives et munitions factices.
 * Tables de poker clandestines et roulettes de jeu.
 * Laboratoires de fortune et contenants de produits chimiques.
-{% endcolumn %}
-{% endcolumns %}
+{% endtab %}
+{% endtabs %}
 
 ---
 

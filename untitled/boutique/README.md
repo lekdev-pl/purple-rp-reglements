@@ -1,22 +1,14 @@
 ---
+description: Modalités de soutien, catégories d'articles et conditions de la boutique Purple RP.
 cover: banner.png
 coverY: 0.5
-layout:
-  width: default
-  cover:
-    visible: true
-    size: default
 ---
 
 # 🛍️ Boutique Officielle & Soutien Serveur
 
-<div align="center">
-
 [![Boutique](https://img.shields.io/badge/BOUTIQUE-OFFICIELLE-9d4edd?style=for-the-badge&logo=shopify&logoColor=white)](https://purple-rp.gitbook.io/)
 [![Paiement](https://img.shields.io/badge/PAIEMENT-100%25_SÉCURISÉ-38b000?style=for-the-badge&logo=shield&logoColor=white)](https://purple-rp.gitbook.io/)
 [![Éthique](https://img.shields.io/badge/NO_PAY_TO_WIN-STRICT-e63946?style=for-the-badge)](https://purple-rp.gitbook.io/)
-
-</div>
 
 Bienvenue sur la boutique officielle de **Purple RP**.  
 Votre soutien financier permet de financer directement nos machines dédiées haute performance, les licences FiveM et le développement continu d'expériences RolePlay inédites.
@@ -36,35 +28,29 @@ Votre soutien financier permet de financer directement nos machines dédiées ha
 
 ### 🛒 Les Catégories de la Boutique
 
-{% columns %}
-{% column %}
-#### 🚗 Véhicules Imports & Customs
+{% tabs %}
+{% tab title="🚗 Véhicules Imports & Customs" %}
 * Véhicules exclusifs aux finitions haut de gamme (berlines, sportives, SUV, motos).
 * **Équilibrage rigoureux :** La vitesse maximale et l'accélération de chaque modèle sont bridées et équilibrées pour correspondre aux catégories de la ville (aucun véhicule « fusée » intouchable).
 * Carte grise et assurance liées à votre personnage.
-{% endcolumn %}
+{% endtab %}
 
-{% column %}
-#### ⭐ Abonnements & Rangs VIP
+{% tab title="⭐ Abonnements & VIP" %}
 * **Accès Prioritaire :** File d'attente raccourcie lors des pics de forte affluence (sans éjecter les joueurs déjà connectés).
 * **Rôle Discord Exclusif :** Salon de discussion réservé aux soutiens et accès aux annonces en avant-première.
 * Emotes et animations personnalisées exclusives.
-{% endcolumn %}
-{% endcolumns %}
+{% endtab %}
 
-{% columns %}
-{% column %}
-#### 🔫 Cosmétiques & Armes
+{% tab title="🔫 Cosmétiques & Armes" %}
 * Skins d'armes personnalisés (gravures dorées, poignées boisées, teintes mates).
 * Finitions purement esthétiques : **les dégâts, la portée et la cadence de tir restent strictement identiques** aux armes classiques du serveur.
-{% endcolumn %}
+{% endtab %}
 
-{% column %}
-#### 🏢 Packs Projets & Factions
+{% tab title="🏢 Packs Projets & Factions" %}
 * Packs d'aménagement et de mobilier (props) pour locaux de gangs ou d'entreprises.
 * Possibilité d'intégration de logos ou de tenues personnalisées pour votre organisation sur validation Staff.
-{% endcolumn %}
-{% endcolumns %}
+{% endtab %}
+{% endtabs %}
 
 ---
 

@@ -1,22 +1,14 @@
 ---
+description: Règlement commun LSPD, BCSO, FIB et USSS sur Purple RP.
 cover: banner.png
 coverY: 0.5
-layout:
-  width: default
-  cover:
-    visible: true
-    size: default
 ---
 
 # 🚓 Forces de l'Ordre (LSPD • BCSO • FIB • USSS)
 
-<div align="center">
-
 [![Police](https://img.shields.io/badge/POLICE-SAN_ANDREAS-1d3557?style=for-the-badge&logo=shield&logoColor=white)](https://purple-rp.gitbook.io/)
 [![Sommations](https://img.shields.io/badge/3_SOMMATIONS-OBLIGATOIRES-e63946?style=for-the-badge)](https://purple-rp.gitbook.io/)
 [![Éthique](https://img.shields.io/badge/DÉONTOLOGIE-PROFESSIONNELLE-457b9d?style=for-the-badge)](https://purple-rp.gitbook.io/)
-
-</div>
 
 Ce règlement commun régit l'activité de l'ensemble des forces de police et d'investigation de l'État de San Andreas.
 

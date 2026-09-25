@@ -1,22 +1,14 @@
 ---
+description: Quotas, règles d'engagement et négociations des braquages et prises d'otages sur Purple RP.
 cover: banner.png
 coverY: 0.5
-layout:
-  width: default
-  cover:
-    visible: true
-    size: default
 ---
 
 # 🏦 Braquages, Négociations & Prises d'Otages
 
-<div align="center">
-
 [![Braquages](https://img.shields.io/badge/BRAQUAGES-ACTION_&_FAIRPLAY-d00000?style=for-the-badge&logo=target&logoColor=white)](https://purple-rp.gitbook.io/)
 [![Otages](https://img.shields.io/badge/OTAGES-1_POUR_2_MAX-ffb703?style=for-the-badge)](https://purple-rp.gitbook.io/)
 [![PIT](https://img.shields.io/badge/NO_PIT-AVANT_3_À_5_MIN-023e8a?style=for-the-badge)](https://purple-rp.gitbook.io/)
-
-</div>
 
 Les braquages et prises d'otages sont des moments forts d'adrénaline et de RolePlay. Ils requièrent une rigueur absolue pour demeurer captivants pour les deux camps.
 

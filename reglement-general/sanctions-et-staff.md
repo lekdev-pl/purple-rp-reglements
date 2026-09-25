@@ -1,22 +1,14 @@
 ---
+description: Barème officiel des avertissements, bannissements et procédures staff sur Purple RP.
 cover: banner.png
 coverY: 0.5
-layout:
-  width: default
-  cover:
-    visible: true
-    size: default
 ---
 
 # 🚨 Échelle des Sanctions, Plaintes & Staff
 
-<div align="center">
-
 [![Sanctions](https://img.shields.io/badge/RÈGLEMENT-SANCTIONS_GRADUÉES-e63946?style=for-the-badge&logo=gavel&logoColor=white)](https://purple-rp.gitbook.io/)
 [![Preuves](https://img.shields.io/badge/REC_VIDÉO-OBLIGATOIRE-457b9d?style=for-the-badge&logo=obsstudio&logoColor=white)](https://purple-rp.gitbook.io/)
 [![Staff](https://img.shields.io/badge/ADMINISTRATION-TOLÉRANCE_ZÉRO-1d3557?style=for-the-badge)](https://purple-rp.gitbook.io/)
-
-</div>
 
 Pour garantir la pérennité et la bonne ambiance sur **Purple RP**, l'équipe d'administration applique un barème clair et progressif de sanctions.
 
