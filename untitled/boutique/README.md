@@ -1,12 +1,12 @@
 ---
-description: Informations sur les boutiques et le soutien au serveur.
+description: Modalités de soutien, catégories d'articles et conditions de la boutique Purple RP.
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: background
-    mask: none
+    mask: radial
   title:
     visible: true
   description:
@@ -27,28 +27,65 @@ layout:
     visible: true
 ---
 
-# 🛍️ Boutique Officielle
+# 🛍️ Boutique Officielle & Soutien Serveur
 
-Retrouvez ici les informations utiles sur la boutique et le soutien au serveur **Purple RP**.
+Bienvenue sur la boutique officielle de **Purple RP**.  
+Votre soutien financier permet de financer directement nos machines dédiées haute performance, les licences FiveM et le développement continu d'expériences RolePlay inédites.
 
 ---
 
-### 💳 Philosophie & Éthique du Soutien
+### 🛡️ Charte Éthique & Politique « No Pay-to-Win »
 
 {% hint style="success" %}
-#### Aucun Avantage d'Immunité RP
-* Tout achat effectué sur la boutique (véhicule import, arme cosmétique, pack d'animation, abonnement de soutien) représente une contribution bénévole au développement et à l'hébergement du serveur.
-* **Égalité stricte devant le règlement :** Posséder un rang donateur ou des articles boutique ne confère **aucune immunité** vis-à-vis des règles de Purple RP ni de clémence en cas d'infraction.
-* Tous les joueurs sont traités avec la même équité par l'équipe Staff.
+#### Égalité Stricte devant la Loi & le Staff
+* **Aucun Passe-Droit RP :** Contribuer financièrement au serveur ne vous octroie **aucun privilège administratif**, aucune immunité face aux sanctions et aucun avantage déloyal face aux autres joueurs.
+* Un joueur disposant d'un abonnement VIP ou d'un véhicule import reste soumis aux mêmes devoirs, aux mêmes règles (FearRP, 3 sommations, etc.) et au même barème de sanctions (Warn, Ban) que n'importe quel citoyen de la ville.
+* Le respect du fair-play prime sur tout investissement financier.
 {% endhint %}
 
 ---
 
-### 📦 Catégories Disponibles
+### 🛒 Les Catégories de la Boutique
 
-La boutique propose les catégories suivantes :
+{% columns %}
+{% column %}
+#### 🚗 Véhicules Imports & Customs
+* Véhicules exclusifs aux finitions haut de gamme (berlines, sportives, SUV, motos).
+* **Équilibrage rigoureux :** La vitesse maximale et l'accélération de chaque modèle sont bridées et équilibrées pour correspondre aux catégories de la ville (aucun véhicule « fusée » intouchable).
+* Carte grise et assurance liées à votre personnage.
+{% endcolumn %}
 
-* 🚗 **Véhicules Personnalisés & Imports :** Véhicules exclusifs aux performances équilibrées avec les catégories de la ville.
-* 🔫 **Armes & Cosmétiques :** Finitions visuelles, gravures et skins d'armes RP.
-* ⭐ **Abonnements & Rangs VIP :** Priorité modérée dans la file d'attente aux heures de pointe et salons Discord dédiés.
-* 🎁 **Packs Communautaires :** Packs d'aménagement pour les factions et entreprises souhaitant personnaliser leurs intérieurs.
+{% column %}
+#### ⭐ Abonnements & Rangs VIP
+* **Accès Prioritaire :** File d'attente raccourcie lors des pics de forte affluence (sans éjecter les joueurs déjà connectés).
+* **Rôle Discord Exclusif :** Salon de discussion réservé aux soutiens et accès aux annonces en avant-première.
+* Emotes et animations personnalisées exclusives.
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+#### 🔫 Cosmétiques & Armes
+* Skins d'armes personnalisés (gravures dorées, poignées boisées, teintes mates).
+* Finitions purement esthétiques : **les dégâts, la portée et la cadence de tir restent strictement identiques** aux armes classiques du serveur.
+{% endcolumn %}
+
+{% column %}
+#### 🏢 Packs Projets & Factions
+* Packs d'aménagement et de mobilier (props) pour locaux de gangs ou d'entreprises.
+* Possibilité d'intégration de logos ou de tenues personnalisées pour votre organisation sur validation Staff.
+{% endcolumn %}
+{% endcolumns %}
+
+---
+
+### 📋 Conditions Générales & FAQ
+
+1. **Modalités d'Achat :**
+   * Tous les achats s'effectuent via notre plateforme sécurisée officielle (Tebex).
+   * La livraison des articles s'opère de manière automatique ou via ticket sous 24 à 48 heures.
+2. **Politique de Remboursement :**
+   * Les contributions et achats numériques sont définitifs et non-remboursables une fois activés en jeu.
+   * En cas de bannissement légitime consécutif au non-respect du règlement, aucun remboursement ne sera accordé.
+3. **Problème de Livraison ?**
+   * Si vous rencontrez le moindre souci avec votre commande, ouvrez simplement un ticket dans la section **#support-boutique** de notre Discord avec votre numéro de transaction.
